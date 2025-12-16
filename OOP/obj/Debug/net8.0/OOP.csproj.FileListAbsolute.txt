@@ -1,0 +1,14 @@
+C:\Users\IET\Desktop\.NET_Pract\MS.NET Practice\OOP\bin\Debug\net8.0\OOP.exe
+C:\Users\IET\Desktop\.NET_Pract\MS.NET Practice\OOP\bin\Debug\net8.0\OOP.deps.json
+C:\Users\IET\Desktop\.NET_Pract\MS.NET Practice\OOP\bin\Debug\net8.0\OOP.runtimeconfig.json
+C:\Users\IET\Desktop\.NET_Pract\MS.NET Practice\OOP\bin\Debug\net8.0\OOP.dll
+C:\Users\IET\Desktop\.NET_Pract\MS.NET Practice\OOP\bin\Debug\net8.0\OOP.pdb
+C:\Users\IET\Desktop\.NET_Pract\MS.NET Practice\OOP\obj\Debug\net8.0\OOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\.NET_Pract\MS.NET Practice\OOP\obj\Debug\net8.0\OOP.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\.NET_Pract\MS.NET Practice\OOP\obj\Debug\net8.0\OOP.AssemblyInfo.cs
+C:\Users\IET\Desktop\.NET_Pract\MS.NET Practice\OOP\obj\Debug\net8.0\OOP.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\.NET_Pract\MS.NET Practice\OOP\obj\Debug\net8.0\OOP.dll
+C:\Users\IET\Desktop\.NET_Pract\MS.NET Practice\OOP\obj\Debug\net8.0\refint\OOP.dll
+C:\Users\IET\Desktop\.NET_Pract\MS.NET Practice\OOP\obj\Debug\net8.0\OOP.pdb
+C:\Users\IET\Desktop\.NET_Pract\MS.NET Practice\OOP\obj\Debug\net8.0\OOP.genruntimeconfig.cache
+C:\Users\IET\Desktop\.NET_Pract\MS.NET Practice\OOP\obj\Debug\net8.0\ref\OOP.dll

@@ -1,0 +1,14 @@
+C:\Users\IET\Desktop\.NET_Pract\MS.NET Practice\InheritanceDemo1\bin\Debug\net8.0\InheritanceDemo01.exe
+C:\Users\IET\Desktop\.NET_Pract\MS.NET Practice\InheritanceDemo1\bin\Debug\net8.0\InheritanceDemo01.deps.json
+C:\Users\IET\Desktop\.NET_Pract\MS.NET Practice\InheritanceDemo1\bin\Debug\net8.0\InheritanceDemo01.runtimeconfig.json
+C:\Users\IET\Desktop\.NET_Pract\MS.NET Practice\InheritanceDemo1\bin\Debug\net8.0\InheritanceDemo01.dll
+C:\Users\IET\Desktop\.NET_Pract\MS.NET Practice\InheritanceDemo1\bin\Debug\net8.0\InheritanceDemo01.pdb
+C:\Users\IET\Desktop\.NET_Pract\MS.NET Practice\InheritanceDemo1\obj\Debug\net8.0\InheritanceDemo01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\.NET_Pract\MS.NET Practice\InheritanceDemo1\obj\Debug\net8.0\InheritanceDemo01.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\.NET_Pract\MS.NET Practice\InheritanceDemo1\obj\Debug\net8.0\InheritanceDemo01.AssemblyInfo.cs
+C:\Users\IET\Desktop\.NET_Pract\MS.NET Practice\InheritanceDemo1\obj\Debug\net8.0\InheritanceDemo01.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\.NET_Pract\MS.NET Practice\InheritanceDemo1\obj\Debug\net8.0\InheritanceDemo01.dll
+C:\Users\IET\Desktop\.NET_Pract\MS.NET Practice\InheritanceDemo1\obj\Debug\net8.0\refint\InheritanceDemo01.dll
+C:\Users\IET\Desktop\.NET_Pract\MS.NET Practice\InheritanceDemo1\obj\Debug\net8.0\InheritanceDemo01.pdb
+C:\Users\IET\Desktop\.NET_Pract\MS.NET Practice\InheritanceDemo1\obj\Debug\net8.0\InheritanceDemo01.genruntimeconfig.cache
+C:\Users\IET\Desktop\.NET_Pract\MS.NET Practice\InheritanceDemo1\obj\Debug\net8.0\ref\InheritanceDemo01.dll
