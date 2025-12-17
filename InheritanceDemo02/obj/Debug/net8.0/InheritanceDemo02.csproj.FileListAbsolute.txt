@@ -1,0 +1,14 @@
+C:\Users\IET\Desktop\.NET_Pract\MS.NET Practice\InheritanceDemo02\obj\Debug\net8.0\InheritanceDemo02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\.NET_Pract\MS.NET Practice\InheritanceDemo02\obj\Debug\net8.0\InheritanceDemo02.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\.NET_Pract\MS.NET Practice\InheritanceDemo02\obj\Debug\net8.0\InheritanceDemo02.AssemblyInfo.cs
+C:\Users\IET\Desktop\.NET_Pract\MS.NET Practice\InheritanceDemo02\obj\Debug\net8.0\InheritanceDemo02.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\.NET_Pract\MS.NET Practice\InheritanceDemo02\bin\Debug\net8.0\InheritanceDemo02.exe
+C:\Users\IET\Desktop\.NET_Pract\MS.NET Practice\InheritanceDemo02\bin\Debug\net8.0\InheritanceDemo02.deps.json
+C:\Users\IET\Desktop\.NET_Pract\MS.NET Practice\InheritanceDemo02\bin\Debug\net8.0\InheritanceDemo02.runtimeconfig.json
+C:\Users\IET\Desktop\.NET_Pract\MS.NET Practice\InheritanceDemo02\bin\Debug\net8.0\InheritanceDemo02.dll
+C:\Users\IET\Desktop\.NET_Pract\MS.NET Practice\InheritanceDemo02\bin\Debug\net8.0\InheritanceDemo02.pdb
+C:\Users\IET\Desktop\.NET_Pract\MS.NET Practice\InheritanceDemo02\obj\Debug\net8.0\InheritanceDemo02.dll
+C:\Users\IET\Desktop\.NET_Pract\MS.NET Practice\InheritanceDemo02\obj\Debug\net8.0\refint\InheritanceDemo02.dll
+C:\Users\IET\Desktop\.NET_Pract\MS.NET Practice\InheritanceDemo02\obj\Debug\net8.0\InheritanceDemo02.pdb
+C:\Users\IET\Desktop\.NET_Pract\MS.NET Practice\InheritanceDemo02\obj\Debug\net8.0\InheritanceDemo02.genruntimeconfig.cache
+C:\Users\IET\Desktop\.NET_Pract\MS.NET Practice\InheritanceDemo02\obj\Debug\net8.0\ref\InheritanceDemo02.dll
