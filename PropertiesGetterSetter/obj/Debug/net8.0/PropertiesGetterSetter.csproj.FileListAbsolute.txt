@@ -1,0 +1,14 @@
+C:\Users\Admin\Documents\.Net\Practice_Solutions\PropertiesGetterSetter\bin\Debug\net8.0\PropertiesGetterSetter.exe
+C:\Users\Admin\Documents\.Net\Practice_Solutions\PropertiesGetterSetter\bin\Debug\net8.0\PropertiesGetterSetter.deps.json
+C:\Users\Admin\Documents\.Net\Practice_Solutions\PropertiesGetterSetter\bin\Debug\net8.0\PropertiesGetterSetter.runtimeconfig.json
+C:\Users\Admin\Documents\.Net\Practice_Solutions\PropertiesGetterSetter\bin\Debug\net8.0\PropertiesGetterSetter.dll
+C:\Users\Admin\Documents\.Net\Practice_Solutions\PropertiesGetterSetter\bin\Debug\net8.0\PropertiesGetterSetter.pdb
+C:\Users\Admin\Documents\.Net\Practice_Solutions\PropertiesGetterSetter\obj\Debug\net8.0\PropertiesGetterSetter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\.Net\Practice_Solutions\PropertiesGetterSetter\obj\Debug\net8.0\PropertiesGetterSetter.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\.Net\Practice_Solutions\PropertiesGetterSetter\obj\Debug\net8.0\PropertiesGetterSetter.AssemblyInfo.cs
+C:\Users\Admin\Documents\.Net\Practice_Solutions\PropertiesGetterSetter\obj\Debug\net8.0\PropertiesGetterSetter.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\.Net\Practice_Solutions\PropertiesGetterSetter\obj\Debug\net8.0\PropertiesGetterSetter.dll
+C:\Users\Admin\Documents\.Net\Practice_Solutions\PropertiesGetterSetter\obj\Debug\net8.0\refint\PropertiesGetterSetter.dll
+C:\Users\Admin\Documents\.Net\Practice_Solutions\PropertiesGetterSetter\obj\Debug\net8.0\PropertiesGetterSetter.pdb
+C:\Users\Admin\Documents\.Net\Practice_Solutions\PropertiesGetterSetter\obj\Debug\net8.0\PropertiesGetterSetter.genruntimeconfig.cache
+C:\Users\Admin\Documents\.Net\Practice_Solutions\PropertiesGetterSetter\obj\Debug\net8.0\ref\PropertiesGetterSetter.dll

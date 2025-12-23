@@ -1,0 +1,14 @@
+C:\Users\Admin\OneDrive\Documents\.Net\Practice_Solutions\SingletonLogger\bin\Debug\net8.0\SingletonLogger.exe
+C:\Users\Admin\OneDrive\Documents\.Net\Practice_Solutions\SingletonLogger\bin\Debug\net8.0\SingletonLogger.deps.json
+C:\Users\Admin\OneDrive\Documents\.Net\Practice_Solutions\SingletonLogger\bin\Debug\net8.0\SingletonLogger.runtimeconfig.json
+C:\Users\Admin\OneDrive\Documents\.Net\Practice_Solutions\SingletonLogger\bin\Debug\net8.0\SingletonLogger.dll
+C:\Users\Admin\OneDrive\Documents\.Net\Practice_Solutions\SingletonLogger\bin\Debug\net8.0\SingletonLogger.pdb
+C:\Users\Admin\OneDrive\Documents\.Net\Practice_Solutions\SingletonLogger\obj\Debug\net8.0\SingletonLogger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Documents\.Net\Practice_Solutions\SingletonLogger\obj\Debug\net8.0\SingletonLogger.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Documents\.Net\Practice_Solutions\SingletonLogger\obj\Debug\net8.0\SingletonLogger.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Documents\.Net\Practice_Solutions\SingletonLogger\obj\Debug\net8.0\SingletonLogger.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Documents\.Net\Practice_Solutions\SingletonLogger\obj\Debug\net8.0\SingletonLogger.dll
+C:\Users\Admin\OneDrive\Documents\.Net\Practice_Solutions\SingletonLogger\obj\Debug\net8.0\refint\SingletonLogger.dll
+C:\Users\Admin\OneDrive\Documents\.Net\Practice_Solutions\SingletonLogger\obj\Debug\net8.0\SingletonLogger.pdb
+C:\Users\Admin\OneDrive\Documents\.Net\Practice_Solutions\SingletonLogger\obj\Debug\net8.0\SingletonLogger.genruntimeconfig.cache
+C:\Users\Admin\OneDrive\Documents\.Net\Practice_Solutions\SingletonLogger\obj\Debug\net8.0\ref\SingletonLogger.dll
