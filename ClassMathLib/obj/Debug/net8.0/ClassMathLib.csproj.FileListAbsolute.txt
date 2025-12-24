@@ -1,0 +1,11 @@
+C:\Users\IET\Desktop\.NET_Pract\MS.NET Practice\ClassMathLib\bin\Debug\net8.0\ClassMathLib.deps.json
+C:\Users\IET\Desktop\.NET_Pract\MS.NET Practice\ClassMathLib\bin\Debug\net8.0\ClassMathLib.dll
+C:\Users\IET\Desktop\.NET_Pract\MS.NET Practice\ClassMathLib\bin\Debug\net8.0\ClassMathLib.pdb
+C:\Users\IET\Desktop\.NET_Pract\MS.NET Practice\ClassMathLib\obj\Debug\net8.0\ClassMathLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\.NET_Pract\MS.NET Practice\ClassMathLib\obj\Debug\net8.0\ClassMathLib.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\.NET_Pract\MS.NET Practice\ClassMathLib\obj\Debug\net8.0\ClassMathLib.AssemblyInfo.cs
+C:\Users\IET\Desktop\.NET_Pract\MS.NET Practice\ClassMathLib\obj\Debug\net8.0\ClassMathLib.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\.NET_Pract\MS.NET Practice\ClassMathLib\obj\Debug\net8.0\ClassMathLib.dll
+C:\Users\IET\Desktop\.NET_Pract\MS.NET Practice\ClassMathLib\obj\Debug\net8.0\refint\ClassMathLib.dll
+C:\Users\IET\Desktop\.NET_Pract\MS.NET Practice\ClassMathLib\obj\Debug\net8.0\ClassMathLib.pdb
+C:\Users\IET\Desktop\.NET_Pract\MS.NET Practice\ClassMathLib\obj\Debug\net8.0\ref\ClassMathLib.dll
