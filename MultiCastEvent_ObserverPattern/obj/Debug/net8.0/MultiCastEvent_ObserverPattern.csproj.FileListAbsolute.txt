@@ -1,0 +1,14 @@
+C:\Users\IET\Desktop\.NET_Pract\MS.NET Practice\MultiCastEvent_ObserverPattern\bin\Debug\net8.0\MultiCastEvent_ObserverPattern.exe
+C:\Users\IET\Desktop\.NET_Pract\MS.NET Practice\MultiCastEvent_ObserverPattern\bin\Debug\net8.0\MultiCastEvent_ObserverPattern.deps.json
+C:\Users\IET\Desktop\.NET_Pract\MS.NET Practice\MultiCastEvent_ObserverPattern\bin\Debug\net8.0\MultiCastEvent_ObserverPattern.runtimeconfig.json
+C:\Users\IET\Desktop\.NET_Pract\MS.NET Practice\MultiCastEvent_ObserverPattern\bin\Debug\net8.0\MultiCastEvent_ObserverPattern.dll
+C:\Users\IET\Desktop\.NET_Pract\MS.NET Practice\MultiCastEvent_ObserverPattern\bin\Debug\net8.0\MultiCastEvent_ObserverPattern.pdb
+C:\Users\IET\Desktop\.NET_Pract\MS.NET Practice\MultiCastEvent_ObserverPattern\obj\Debug\net8.0\MultiCastEvent_ObserverPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\.NET_Pract\MS.NET Practice\MultiCastEvent_ObserverPattern\obj\Debug\net8.0\MultiCastEvent_ObserverPattern.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\.NET_Pract\MS.NET Practice\MultiCastEvent_ObserverPattern\obj\Debug\net8.0\MultiCastEvent_ObserverPattern.AssemblyInfo.cs
+C:\Users\IET\Desktop\.NET_Pract\MS.NET Practice\MultiCastEvent_ObserverPattern\obj\Debug\net8.0\MultiCastEvent_ObserverPattern.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\.NET_Pract\MS.NET Practice\MultiCastEvent_ObserverPattern\obj\Debug\net8.0\MultiCastEvent_ObserverPattern.dll
+C:\Users\IET\Desktop\.NET_Pract\MS.NET Practice\MultiCastEvent_ObserverPattern\obj\Debug\net8.0\refint\MultiCastEvent_ObserverPattern.dll
+C:\Users\IET\Desktop\.NET_Pract\MS.NET Practice\MultiCastEvent_ObserverPattern\obj\Debug\net8.0\MultiCastEvent_ObserverPattern.pdb
+C:\Users\IET\Desktop\.NET_Pract\MS.NET Practice\MultiCastEvent_ObserverPattern\obj\Debug\net8.0\MultiCastEvent_ObserverPattern.genruntimeconfig.cache
+C:\Users\IET\Desktop\.NET_Pract\MS.NET Practice\MultiCastEvent_ObserverPattern\obj\Debug\net8.0\ref\MultiCastEvent_ObserverPattern.dll
