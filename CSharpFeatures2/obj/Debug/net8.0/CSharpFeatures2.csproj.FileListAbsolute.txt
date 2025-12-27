@@ -1,0 +1,14 @@
+C:\Users\IET\Desktop\.NET_Pract\MS.NET Practice\CSharpFeatures2\bin\Debug\net8.0\CSharpFeatures2.exe
+C:\Users\IET\Desktop\.NET_Pract\MS.NET Practice\CSharpFeatures2\bin\Debug\net8.0\CSharpFeatures2.deps.json
+C:\Users\IET\Desktop\.NET_Pract\MS.NET Practice\CSharpFeatures2\bin\Debug\net8.0\CSharpFeatures2.runtimeconfig.json
+C:\Users\IET\Desktop\.NET_Pract\MS.NET Practice\CSharpFeatures2\bin\Debug\net8.0\CSharpFeatures2.dll
+C:\Users\IET\Desktop\.NET_Pract\MS.NET Practice\CSharpFeatures2\bin\Debug\net8.0\CSharpFeatures2.pdb
+C:\Users\IET\Desktop\.NET_Pract\MS.NET Practice\CSharpFeatures2\obj\Debug\net8.0\CSharpFeatures2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\.NET_Pract\MS.NET Practice\CSharpFeatures2\obj\Debug\net8.0\CSharpFeatures2.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\.NET_Pract\MS.NET Practice\CSharpFeatures2\obj\Debug\net8.0\CSharpFeatures2.AssemblyInfo.cs
+C:\Users\IET\Desktop\.NET_Pract\MS.NET Practice\CSharpFeatures2\obj\Debug\net8.0\CSharpFeatures2.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\.NET_Pract\MS.NET Practice\CSharpFeatures2\obj\Debug\net8.0\CSharpFeatures2.dll
+C:\Users\IET\Desktop\.NET_Pract\MS.NET Practice\CSharpFeatures2\obj\Debug\net8.0\refint\CSharpFeatures2.dll
+C:\Users\IET\Desktop\.NET_Pract\MS.NET Practice\CSharpFeatures2\obj\Debug\net8.0\CSharpFeatures2.pdb
+C:\Users\IET\Desktop\.NET_Pract\MS.NET Practice\CSharpFeatures2\obj\Debug\net8.0\CSharpFeatures2.genruntimeconfig.cache
+C:\Users\IET\Desktop\.NET_Pract\MS.NET Practice\CSharpFeatures2\obj\Debug\net8.0\ref\CSharpFeatures2.dll
